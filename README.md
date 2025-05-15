@@ -1,2 +1,2 @@
-# Data-Science-Project
-Data Science related project
+# FOREX Prediction Project
+EUR/GBP exchange rate and volatility predictions using machine learning
